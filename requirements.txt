@@ -1,0 +1,40 @@
+
+# Data science
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+plotly
+shap
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+
+# Frontend
+streamlit
+
+# Data storage
+sqlalchemy
+psycopg[binary]
+
+# Model tracking and persistence
+mlflow
+joblib
+
+# GenAI foundations
+transformers
+sentence-transformers
+faiss-cpu
+openai
+
+# Configuration and testing
+python-dotenv
+pytest
+httpx
